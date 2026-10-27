@@ -1,4 +1,8 @@
 {
-  "baseUrl": "http://sannn.websitesan.store:5001",
-  "wsUrl": "ws://sannn.websitesan.store:5001"
+  "server_host": "sannn.websitesan.store",
+  "server_port": 5001,
+  "update_available": true,
+  "version": "v2.0.1",
+  "notes": "Update perdana, fix bug.",
+  "apk_url": "https://t.me/exotoryultra"
 }
